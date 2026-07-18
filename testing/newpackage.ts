@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "fullTest": "npx playwright test",
-    "smokeTest": "npx playwright test tests/mouseOps.spec.ts",
+    "smokeTest": "npx playwright test -g @smoke",
     "regressionTest": "npx playwright test -g @regression",
     "lpTest": "npx playwright test tests/LoginPageTest.spec.ts",
     "test:qa": "set ENV=qa&& npx playwright test tests/LoginPageTestUsingEnv.spec.ts",
@@ -13,16 +13,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kavithaqxf2/PWTSMay26.git"
+    "url": "git+https://github.com/Praveenroy05/PWTSMay26.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Kavithaqxf2/PWTSMay26/issues"
+    "url": "https://github.com/Praveenroy05/PWTSMay26/issues"
   },
-  "homepage": "https://github.com/Kavithaqxf2/PWTSMay26#readme",
+  "homepage": "https://github.com/Praveenroy05/PWTSMay26#readme",
   "devDependencies": {
     "@playwright/test": "^1.60.0",
     "@types/node": "^25.9.2",
