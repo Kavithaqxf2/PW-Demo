@@ -1,17 +1,34 @@
 {
-  "name": "pw-demo",
+  "name": "pwtsmay26",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "fullTest": "npx playwright test",
+    "smokeTest": "npx playwright test -g @smoke",
+    "regressionTest": "npx playwright test -g @regression",
+    "lpTest": "npx playwright test tests/LoginPageTest.spec.ts",
+    "test:qa": "set ENV=qa&& npx playwright test tests/LoginPageTestUsingEnv.spec.ts",
+    "test:prod":"set ENV=prod&& npx playwright test tests/LoginPageTestUsingEnv.spec.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Praveenroy05/PWTSMay26.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "@playwright/test": "^1.59.1",
-    "@types/node": "^25.9.1"
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Praveenroy05/PWTSMay26/issues"
   },
-  "dependencies": {
-    "save-dev": "^0.0.1-security"
+  "homepage": "https://github.com/Praveenroy05/PWTSMay26#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.2",
+    "allure-commandline": "^2.43.0",
+    "allure-playwright": "^3.10.2",
+    "dotenv": "^17.4.2",
+    "xlsx": "^0.18.5"
   }
 }

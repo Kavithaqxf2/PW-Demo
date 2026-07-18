@@ -1,0 +1,637 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - text:      
+    - generic [ref=e5]:
+      - link "Biztechgeeks logo Biztechgeeks" [ref=e11] [cursor=pointer]:
+        - /url: https://biztechgeeks.com
+        - img "Biztechgeeks logo" [ref=e12]
+        - generic [ref=e14]: Biztechgeeks
+      - generic [ref=e19]:
+        - text: 
+        - generic [ref=e20]:
+          - text: 
+          - list [ref=e22]:
+            - listitem [ref=e23]:
+              - link "Home" [ref=e24] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/
+                - generic [ref=e25]: Home
+            - listitem [ref=e26]:
+              - link "Our Story" [ref=e27] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/about/
+                - generic [ref=e28]: Our Story
+            - listitem [ref=e29]:
+              - link "Services " [ref=e30] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/services/
+                - generic [ref=e31]: Services
+                - generic [ref=e32]: 
+            - listitem [ref=e33]:
+              - link "Courses" [ref=e34] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/courses/
+                - generic [ref=e35]: Courses
+            - listitem [ref=e36]:
+              - link "AI Agents" [ref=e37] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/services/ai-agents/
+                - generic [ref=e38]: AI Agents
+            - listitem [ref=e39]:
+              - link "Blog" [ref=e40] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/blog/
+                - generic [ref=e41]: Blog
+            - listitem [ref=e42]:
+              - link "Contact" [ref=e43] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/contact/
+                - generic [ref=e44]: Contact
+    - text:   
+    - generic [ref=e49]:
+      - generic [ref=e51]:
+        - heading "Creative Marketing" [level=1] [ref=e52]
+        - heading "Agency" [level=3] [ref=e53]
+      - generic [ref=e55]:
+        - paragraph [ref=e56]: Get innovative and hassle free digital marketing services at affordable cost.
+        - paragraph [ref=e57]:
+          - strong [ref=e58]: Let us be your Inhouse geeks to help you in Digital & Tech Services
+          - text: .
+      - link "Unlock Growth Now" [ref=e60] [cursor=pointer]:
+        - /url: https://calendly.com/biztechgeeks
+      - generic [ref=e63]: 
+  - main [ref=e65]:
+    - article [ref=e66]:
+      - generic [ref=e67]:
+        - generic [ref=e71]:
+          - generic [ref=e75]:
+            - generic [ref=e77]: 
+            - generic [ref=e78]:
+              - link "Design" [ref=e79] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/services/social-media-marketing/
+                - generic [ref=e80]:
+                  - text: Design
+                  - paragraph [ref=e81]
+              - generic [ref=e82]:
+                - generic [ref=e83]:
+                  - generic:
+                    - paragraph
+                  - generic:
+                    - generic:
+                      - paragraph
+                  - generic [ref=e84]:
+                    - generic [ref=e85]:
+                      - generic [ref=e86]:
+                        - paragraph [ref=e87]: Website Design
+                        - paragraph [ref=e88]: Video Designing
+                        - paragraph [ref=e89]: Brand Identity
+                        - paragraph [ref=e91]: Photography
+                      - generic:
+                        - paragraph
+                        - paragraph
+                      - paragraph
+                    - paragraph
+                  - paragraph [ref=e92]
+                - paragraph
+          - generic [ref=e96]:
+            - generic [ref=e98]: 
+            - generic [ref=e99]:
+              - generic [ref=e100]:
+                - text: Innovate
+                - paragraph [ref=e101]
+              - generic [ref=e102]:
+                - generic [ref=e103]:
+                  - paragraph [ref=e104]: Content Plans
+                  - paragraph [ref=e105]: Market Research
+                  - paragraph [ref=e106]: Integrate Dashboard
+                  - paragraph [ref=e107]: Web and Voice SEO
+                  - paragraph [ref=e108]: PPC Adwords
+                - paragraph
+            - link [ref=e109] [cursor=pointer]:
+              - /url: https://biztechgeeks.com/services/seo-services/
+          - generic [ref=e113]:
+            - generic [ref=e115]: 
+            - generic [ref=e116]:
+              - link "Automate" [ref=e117] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/services/pay-per-click-ppc/
+                - generic [ref=e118]:
+                  - text: Automate
+                  - paragraph [ref=e119]
+              - generic [ref=e120]:
+                - generic [ref=e121]:
+                  - paragraph [ref=e122]: Funnel Building
+                  - paragraph [ref=e123]: Quality leads
+                  - paragraph [ref=e124]: Integrate Techstack
+                  - paragraph [ref=e125]: Chatbots
+                  - paragraph [ref=e126]: AI and Automation
+                - paragraph
+          - generic [ref=e130]:
+            - generic [ref=e132]: 
+            - generic [ref=e133]:
+              - link "optimize" [ref=e134] [cursor=pointer]:
+                - /url: https://empower.biztechgeeks.com/
+                - generic [ref=e135]:
+                  - text: optimize
+                  - paragraph [ref=e136]
+              - generic [ref=e137]:
+                - generic [ref=e138]:
+                  - paragraph [ref=e139]: Customer journey
+                  - paragraph [ref=e140]: Demand Generation
+                  - paragraph [ref=e141]: Audience Segmentation
+                  - paragraph [ref=e142]: Brand Sentiment
+                  - paragraph [ref=e143]: Data-drive Solutions
+                - paragraph
+        - generic [ref=e145]:
+          - generic [ref=e147]:
+            - heading "Biztechgeeks — Strategy Meets Digital Growth" [level=2] [ref=e150]
+            - generic [ref=e152]:
+              - paragraph [ref=e153]:
+                - generic [ref=e154]:
+                  - text: At Biztechgeeks, we don’t just market
+                  - generic [ref=e155]:
+                    - text: —
+                    - emphasis [ref=e156]: we transform brands
+                    - text: .
+                  - text: As a leading full-service digital marketing agency, we’ve been empowering businesses of all sizes and sectors since 2013 with data-driven strategies and creative brilliance that deliver real results. Our digital marketing services, including business consulting and management options for your various digital marketing requirements, make us a trusted B2C partner and
+                  - link "B2B marketing agency in Coimbatore" [ref=e157] [cursor=pointer]:
+                    - /url: https://biztechgeeks.com/best-digital-marketing-agency-in-coimbatore/
+                  - text: .
+              - paragraph [ref=e158]
+            - generic [ref=e160]:
+              - paragraph [ref=e161]: Our special care features to customers in Digital Marketing includes
+              - generic [ref=e162]:
+                - paragraph [ref=e163]: Marketing Automation and AI powered Marketing
+                - paragraph [ref=e164]:
+                  - strong [ref=e165]: Pay-Per-Click(PPC)ads
+                - paragraph [ref=e166]:
+                  - strong [ref=e167]: Social Media Marketing
+                - paragraph [ref=e168]:
+                  - strong [ref=e169]: Email Marketing (Incl. Drip Marketing)
+                - paragraph [ref=e170]:
+                  - strong [ref=e171]: Lead generation &
+                  - text: Marketing
+                  - strong [ref=e172]: Funnel Building
+            - paragraph [ref=e175]: SEO (Technical, On and Off-page SEO) & AEO
+          - iframe [ref=e180]:
+            - generic [active] [ref=f1e1]:
+              - generic "YouTube Video Player" [ref=f1e3]
+              - generic [ref=f1e5]:
+                - generic:
+                  - generic:
+                    - button "Play video" [ref=f1e10] [cursor=pointer]:
+                      - generic [ref=f1e13]:
+                        - img
+                    - button "Hide player controls" [ref=f1e14] [cursor=pointer]
+                    - generic [ref=f1e16]:
+                      - generic [ref=f1e21]:
+                        - generic [ref=f1e22]:
+                          - link "Best Digital marketing company in Bangalore and Coimbatore. Best Digital marketing service company" [ref=f1e23] [cursor=pointer]:
+                            - /url: https://www.youtube.com/watch?v=mjfku7c2Qm8
+                          - link "BiztechGeeks" [ref=f1e24] [cursor=pointer]:
+                            - /url: /channel/UCjCoJL1NuO0loAOgOKO7Cew
+                            - generic [ref=f1e25]: BiztechGeeks
+                        - generic [ref=f1e26]:
+                          - button [ref=f1e27] [cursor=pointer]
+                          - generic [ref=f1e29]:
+                            - generic: BiztechGeeks
+                            - generic: 16 subscribers
+                      - generic [ref=f1e30]:
+                        - button "Share" [ref=f1e33] [cursor=pointer]:
+                          - generic [ref=f1e37]:
+                            - img
+                        - link "Watch on YouTube" [ref=f1e44] [cursor=pointer]:
+                          - /url: https://www.youtube.com/watch?v=mjfku7c2Qm8
+                          - generic [ref=f1e47]:
+                            - text: Watch on
+                            - img [ref=f1e49]:
+                              - generic [ref=f1e51]:
+                                - img
+        - generic [ref=e184]:
+          - link "Coffee Chat?" [ref=e186] [cursor=pointer]:
+            - /url: https://calendly.com/biztechgeeks
+          - generic [ref=e190]:
+            - generic [ref=e194]:
+              - img "Top-notch creative web designing services provider in Coimbatore, Karur, Erode and Bangalore" [ref=e196]
+              - generic [ref=e197]:
+                - link "Web Design" [ref=e199] [cursor=pointer]:
+                  - /url: https://biztechgeeks.com/services/web-designing/
+                - paragraph [ref=e201]: A well-organized website not only attracts customers, but also gives them an excellent user experience that makes them come back for more
+                - link "Get More" [ref=e202] [cursor=pointer]:
+                  - /url: https://biztechgeeks.com/services/web-designing/
+              - link [ref=e203] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/services/web-designing/
+            - generic [ref=e207]:
+              - img "best marketing automation services provider in karur" [ref=e209]
+              - generic [ref=e210]:
+                - generic [ref=e211]: AI Agents
+                - paragraph [ref=e213]: Our AI agents are built to automate processes improve relationships with your customers. They collaborate with technology to provide efficient solutions
+                - link "Know More" [ref=e214] [cursor=pointer]:
+                  - /url: https://biztechgeeks.com/services/ai-agents/
+              - link [ref=e215] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/services/ai-agents/
+            - generic [ref=e219]:
+              - img "Leading Social media marketing service provider Coimbatore, Karur, Erode and Bangalore" [ref=e221]
+              - generic [ref=e222]:
+                - link "Social Media Marketing" [ref=e224] [cursor=pointer]:
+                  - /url: https://biztechgeeks.com/services/social-media-marketing
+                - paragraph [ref=e226]:
+                  - generic [ref=e228]:
+                    - text: Social media marketing is the most effective technique to boost sales and revenue. Now it's
+                    - link "Social media marketing" [ref=e229] [cursor=pointer]:
+                      - /url: https://biztechgeeks.com/digital-marketing-company-in-karur/
+                    - text: gives you more insightful results
+                - link "Get More" [ref=e230] [cursor=pointer]:
+                  - /url: https://biztechgeeks.com/services/social-media-marketing/
+              - link [ref=e231] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/services/social-media-marketing
+          - generic [ref=e233]:
+            - generic [ref=e237]:
+              - img "Best search engine optimization services experts in Coimbatore, Erode, Karur and Bangalore" [ref=e239]
+              - generic [ref=e240]:
+                - link "SEO" [ref=e242] [cursor=pointer]:
+                  - /url: https://biztechgeeks.com/services/seo-services
+                - paragraph [ref=e244]: Proper SEO always defines your company's online visibility and attracts traffic to your website. If you optimize your website for the proper keywords.
+                - link "Get More" [ref=e245] [cursor=pointer]:
+                  - /url: https://biztechgeeks.com/services/email-marketing/
+              - link [ref=e246] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/services/seo-services/
+            - generic [ref=e250]:
+              - img "Best Lead generation company in Coimbatore, Karur, Erode and Bangalore" [ref=e252]
+              - generic [ref=e253]:
+                - link "Lead Generation" [ref=e255] [cursor=pointer]:
+                  - /url: https://biztechgeeks.com/services/lead-generation/
+                - paragraph [ref=e257]:
+                  - generic [ref=e258]: Optimization of information in such a way that it aids website users in making buying decisions and increased sales.
+                - link "read more" [ref=e259] [cursor=pointer]:
+                  - /url: https://biztechgeeks.com/services/lead-generation/
+              - link [ref=e260] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/services/lead-generation/
+            - generic [ref=e264]:
+              - img "Best PPC agency in Coimbatore, Karur, Erode and Bangalore" [ref=e266]
+              - generic [ref=e267]:
+                - link "Pay per Clicks" [ref=e269] [cursor=pointer]:
+                  - /url: https://biztechgeeks.com/services/pay-per-click-ppc/
+                - paragraph [ref=e271]:
+                  - generic [ref=e272]: Advertising to the right audience at the right time, whether it's through Ads Management using Meta, Google, Linkedin, Reddit platforms
+                - link "Get More" [ref=e273] [cursor=pointer]:
+                  - /url: https://biztechgeeks.com/services/pay-per-click-ppc/
+              - link [ref=e274] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/services/pay-per-click-ppc/
+        - generic [ref=e278]:
+          - paragraph [ref=e281]:
+            - strong [ref=e282]: Ten years. Bold ideas. We turn every spark into something that performs.
+          - paragraph [ref=e285]:
+            - strong [ref=e286]:
+              - generic [ref=e287]: From first pitches to full-scale launches, brands choose us since we combine creative thinking with dependable delivery.
+          - generic [ref=e289]:
+            - generic [ref=e291]:
+              - img "JHeap" [ref=e296]
+              - img "we got guru review" [ref=e301]
+              - img "Qxf2 services reviews" [ref=e306]
+              - img "edusteer reviews" [ref=e311]
+              - img "my institute feedback" [ref=e316]
+              - img "tiger sheet feedback9" [ref=e321]
+              - img "Search engine marketing agency review from Tunip info services" [ref=e326]
+              - img "go happy insurance" [ref=e331]
+              - img "Website design feedback from Abibharathi construction" [ref=e336]
+              - img "Digital marketing company review from Golumbia blinds & shutters" [ref=e341]
+              - img "Digital marketing services review from Power tours" [ref=e346]
+              - img "Google SEO services review from fibras International" [ref=e351]
+              - img "JHeap" [ref=e356]
+              - img "we got guru review" [ref=e361]
+              - img "Qxf2 services reviews" [ref=e366]
+              - img "edusteer reviews" [ref=e371]
+              - img "my institute feedback" [ref=e376]
+              - img "tiger sheet feedback9" [ref=e381]
+              - img "Search engine marketing agency review from Tunip info services" [ref=e386]
+              - img "go happy insurance" [ref=e391]
+              - img "Website design feedback from Abibharathi construction" [ref=e396]
+              - img "Digital marketing company review from Golumbia blinds & shutters" [ref=e401]
+              - img "Digital marketing services review from Power tours" [ref=e406]
+              - img "Google SEO services review from fibras International" [ref=e411]
+            - generic:
+              - button "Previous" [ref=e412] [cursor=pointer]:
+                - generic "Previous" [ref=e413]: ‹
+              - button "Next" [ref=e414] [cursor=pointer]:
+                - generic "Next" [ref=e415]: ›
+            - generic [ref=e416]:
+              - button [ref=e417] [cursor=pointer]
+              - button [ref=e419] [cursor=pointer]
+              - button [ref=e421] [cursor=pointer]
+          - generic [ref=e424]:
+            - generic [ref=e426]:
+              - img "Search Engine Optimization, Social media marketing services review from Golumbia printing" [ref=e431]
+              - img "anugrahalogistics_11zon-removebg-preview_11zon (1)" [ref=e436]
+              - img "Ecommerce Website designing services for pasumai palangal" [ref=e441]
+              - img "Customized marketing funnel building company in karur" [ref=e446]
+              - img "autobotz esports" [ref=e451]
+              - img "456230522_122124325472346790_1925795842384258335_n (1)" [ref=e456]
+              - img "Website design feedback from Abibharathi construction" [ref=e461]
+              - img "Mann-Therapy-_logo" [ref=e466]
+              - img "Search Engine Optimization, Social media marketing services review from Golumbia printing" [ref=e471]
+              - img "anugrahalogistics_11zon-removebg-preview_11zon (1)" [ref=e476]
+              - img "Ecommerce Website designing services for pasumai palangal" [ref=e481]
+              - img "Customized marketing funnel building company in karur" [ref=e486]
+              - img "autobotz esports" [ref=e491]
+              - img "456230522_122124325472346790_1925795842384258335_n (1)" [ref=e496]
+              - img "Website design feedback from Abibharathi construction" [ref=e501]
+              - img "Mann-Therapy-_logo" [ref=e506]
+              - img "Search Engine Optimization, Social media marketing services review from Golumbia printing" [ref=e511]
+              - img "anugrahalogistics_11zon-removebg-preview_11zon (1)" [ref=e516]
+            - generic:
+              - button "Previous" [ref=e517] [cursor=pointer]:
+                - generic "Previous" [ref=e518]: ‹
+              - button "Next" [ref=e519] [cursor=pointer]:
+                - generic "Next" [ref=e520]: ›
+            - generic [ref=e521]:
+              - button [ref=e522] [cursor=pointer]
+              - button [ref=e524] [cursor=pointer]
+        - generic [ref=e529]:
+          - heading "Our Growth Partners" [level=4] [ref=e532]
+          - generic [ref=e534]:
+            - generic [ref=e536]:
+              - img "Meta business partner 2" [ref=e541]
+              - img "Go daddy partner" [ref=e546]
+              - img "LinkedIn marketing strategy certificate" [ref=e551]
+              - img "LinkedIn marketing insider" [ref=e556]
+              - img "LinkedIn creative strategy" [ref=e561]
+              - img "Google cloud partner" [ref=e566]
+              - img "Google partner" [ref=e571]
+              - img "Microsoft partner" [ref=e576]
+              - img "namecheap Logo" [ref=e581]
+              - img "Meta business partner 2" [ref=e586]
+              - img "Go daddy partner" [ref=e591]
+              - img "LinkedIn marketing strategy certificate" [ref=e596]
+              - img "LinkedIn marketing insider" [ref=e601]
+              - img "LinkedIn creative strategy" [ref=e606]
+              - img "Google cloud partner" [ref=e611]
+              - img "Google partner" [ref=e616]
+              - img "Microsoft partner" [ref=e621]
+              - img "namecheap Logo" [ref=e626]
+              - img "Meta business partner 2" [ref=e631]
+            - generic:
+              - button "Previous" [ref=e632] [cursor=pointer]:
+                - generic "Previous" [ref=e633]: ‹
+              - button "Next" [ref=e634] [cursor=pointer]:
+                - generic "Next" [ref=e635]: ›
+            - generic [ref=e636]:
+              - button [ref=e637] [cursor=pointer]
+              - button [ref=e639] [cursor=pointer]
+        - generic [ref=e642]:
+          - generic [ref=e646]:
+            - img "Effective Digital Marketing Strategist"
+          - generic [ref=e648]:
+            - heading "Our Web Development Tech Stack" [level=3] [ref=e651]:
+              - strong [ref=e652]: Our Web Development Tech Stack
+            - generic [ref=e654]:
+              - paragraph [ref=e655]:
+                - text: We are proud to say we experts in Web design and development services in delivering
+                - strong [ref=e656]: WordPress development
+              - generic [ref=e657]:
+                - strong [ref=e659]:
+                  - paragraph [ref=e660]:
+                    - strong [ref=e662]: Wix website development
+                - strong [ref=e664]:
+                  - paragraph [ref=e665]:
+                    - strong [ref=e667]: Wix Ecommerce development with mobile app
+                  - paragraph [ref=e668]:
+                    - strong [ref=e670]: WooCommerce website development with mobile app
+                  - paragraph [ref=e671]:
+                    - strong [ref=e673]: Shopify & Magento website
+                  - paragraph [ref=e674]:
+                    - strong [ref=e676]: Static and Dynamic PHP website
+                    - text: With proper UI/UX features, Responsive mobile display, fast loading site being available for (Business to business) B2B requirements and B2C(Business to Customers) requirements.
+                    - generic:
+                      - strong
+            - generic [ref=e679]:
+              - generic [ref=e680]: We put customers first
+              - generic [ref=e681]:
+                - paragraph [ref=e682]
+                - paragraph [ref=e683]:
+                  - generic [ref=e684]: We believe in honesty, integrity, and respecting our clients. We don’t believe in “selling” a service that you don’t need or applying a one-size-fits-all approach to each client. We dedicate our time to achieving higher rankings, increased traffic and conversions, and a higher ROI for our clients.
+            - link "Know more" [ref=e686] [cursor=pointer]:
+              - /url: https://biztechgeeks.com/services/ai-agents/
+        - generic [ref=e688]:
+          - generic [ref=e692]:
+            - img "A digital marketing strategic plan being discussed by our team of experts"
+          - generic [ref=e694]:
+            - generic [ref=e696]:
+              - heading [level=4] [ref=e697]
+              - heading "Social Media Funnels" [level=3] [ref=e698]
+              - paragraph [ref=e699]
+            - generic [ref=e701]:
+              - paragraph [ref=e702]: We also offer excellent Landing pages, Video Creatives, and Email Marketing Templates on the Ready To Use model.
+              - paragraph
+              - paragraph [ref=e703]
+              - paragraph
+              - paragraph
+              - paragraph [ref=e704]:
+                - generic [ref=e705]:
+                  - text: Do not just work with any digital marketing agency. Choose the
+                  - link "best digital marketing agency in Coimbatore" [ref=e706] [cursor=pointer]:
+                    - /url: https://biztechgeeks.com/best-digital-marketing-agency-in-coimbatore/
+                  - text: ", a company that you can trust."
+              - paragraph [ref=e707]
+              - paragraph [ref=e708]:
+                - text: You
+                - text: could book a free call, and we would explain on different digital marketing aspects and web page design that drives qualified traffic and increases your conversion rate.
+            - link "Get Call Back" [ref=e710] [cursor=pointer]:
+              - /url: https://biztechgeeks.fillout.com/community
+        - generic [ref=e712]:
+          - generic [ref=e714]:
+            - heading "Marketing Automation" [level=3] [ref=e717]
+            - paragraph [ref=e720]:
+              - generic [ref=e721]: At Biztechgeeks, we are transforming marketing via AI-driven automation. Our smart platforms assist companies in streamlining their marketing processes, automatically cultivating prospects, and achieving steady sales — all with accuracy and tailored approaches
+            - generic [ref=e723]:
+              - paragraph [ref=e724]: Covering everything from automated email series and conversational bots to prospect qualification and campaign refinement, we build analytical marketing environments that operate around the clock for your enterprise. What sets us apart is our capacity to marry human ingenuity with AI effectiveness, guaranteeing each communication connects with the intended audience precisely when it counts — for peak results.
+              - list
+          - generic [ref=e728]:
+            - generic:
+              - img "Automation Projects"
+        - heading "How We Help Your Brand Grow?" [level=3] [ref=e738]
+        - generic [ref=e740]:
+          - generic [ref=e742]:
+            - heading "Investigation" [level=2] [ref=e745]
+            - generic [ref=e747]:
+              - paragraph
+              - paragraph
+              - paragraph
+              - paragraph [ref=e751]: With millions of websites on the internet you want to be sure your website stands out, represents you well, and most importantly, helps your organization grow. We will be informative and compelling, pushing your business objectives.
+          - generic [ref=e753]:
+            - heading "Planning" [level=2] [ref=e756]
+            - generic [ref=e758]:
+              - paragraph
+              - paragraph
+              - paragraph
+              - paragraph
+              - paragraph [ref=e763]: Social media marketing is a critical element in staying connected with your audience. We plan and strategise working independently of, or side-by-side with you, we help keep your social community engaged.
+          - generic [ref=e765]:
+            - heading "Creativity" [level=2] [ref=e768]
+            - generic [ref=e770]:
+              - paragraph
+              - paragraph
+              - paragraph
+              - paragraph [ref=e774]: Turn more site visitors into customers! Our experts utilize the latest Conversion Optimization techniques to help increase the percentage of passive website visitors into active users.
+          - generic [ref=e776]:
+            - heading "Production" [level=2] [ref=e779]
+            - generic [ref=e781]:
+              - paragraph
+              - paragraph
+              - paragraph
+              - paragraph [ref=e785]: Your reputation is everything. Our team of experts can help protect and enhance your reputation online for tangible, long-term results. There is no more powerful way to get your message across than through great production
+        - generic [ref=e787]:
+          - generic [ref=e799]:
+            - heading "Live Package Photo" [level=2] [ref=e800]
+            - paragraph [ref=e801]: Art
+          - generic [ref=e813]:
+            - heading "Brand Photoshoot" [level=2] [ref=e814]
+            - paragraph [ref=e815]: Art
+          - generic [ref=e827]:
+            - heading "Product Stock Image" [level=2] [ref=e828]
+            - paragraph [ref=e829]: Art
+          - generic [ref=e841]:
+            - heading "Brochures & Profiles" [level=2] [ref=e842]
+            - paragraph [ref=e843]: Art
+  - contentinfo [ref=e848]:
+    - generic [ref=e850]:
+      - generic [ref=e852]:
+        - link "Biztechgeeks Biztechgeeks" [ref=e856] [cursor=pointer]:
+          - /url: https://biztechgeeks.com
+          - img "Biztechgeeks"
+          - generic [ref=e858]: Biztechgeeks
+        - paragraph [ref=e861]: Your trusted partner for unique digital marketing services! Get services at affordable cost and hassle free.
+      - generic [ref=e863]:
+        - heading "Recent Post" [level=5] [ref=e866]
+        - generic [ref=e868]:
+          - generic [ref=e870]:
+            - generic:
+              - link:
+                - /url: https://biztechgeeks.com/blog/meet-ai-agents-for-modern-business/
+            - generic [ref=e871]:
+              - link "Meet the AI Agents for Modern Business" [ref=e872] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/blog/meet-ai-agents-for-modern-business/
+                - generic [ref=e873]: Meet the AI Agents for Modern Business
+              - generic [ref=e875]:
+                - text: By
+                - link "Kadmin" [ref=e876] [cursor=pointer]:
+                  - /url: https://biztechgeeks.com/blog/author/kadmin/
+          - generic [ref=e878]:
+            - generic:
+              - link:
+                - /url: https://biztechgeeks.com/blog/you-dont-need-more-ai-tools-you-need-them-to-work-together/
+            - generic [ref=e879]:
+              - link "You Don’t Need More AI Tools You Need Them to Work Together" [ref=e880] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/blog/you-dont-need-more-ai-tools-you-need-them-to-work-together/
+                - generic [ref=e881]: You Don’t Need More AI Tools You Need Them to Work Together
+              - generic [ref=e883]:
+                - text: By
+                - link "admin" [ref=e884] [cursor=pointer]:
+                  - /url: https://biztechgeeks.com/blog/author/admin/
+          - generic [ref=e886]:
+            - generic:
+              - link:
+                - /url: https://biztechgeeks.com/blog/how-ai-agents-are-quietly-revolutionizing-everyday-workflows/
+            - generic [ref=e887]:
+              - link "How AI Agents Are Quietly Revolutionizing Everyday Workflows" [ref=e888] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/blog/how-ai-agents-are-quietly-revolutionizing-everyday-workflows/
+                - generic [ref=e889]: How AI Agents Are Quietly Revolutionizing Everyday Workflows
+              - generic [ref=e891]:
+                - text: By
+                - link "admin" [ref=e892] [cursor=pointer]:
+                  - /url: https://biztechgeeks.com/blog/author/admin/
+          - generic [ref=e894]:
+            - generic:
+              - link:
+                - /url: https://biztechgeeks.com/blog/dozens-of-ai-agents-which-one-will-help-you-work-smarter/
+            - generic [ref=e895]:
+              - link "Dozens of AI Agents. Which One Will Help You Work Smarter?" [ref=e896] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/blog/dozens-of-ai-agents-which-one-will-help-you-work-smarter/
+                - generic [ref=e897]: Dozens of AI Agents. Which One Will Help You Work Smarter?
+              - generic [ref=e899]:
+                - text: By
+                - link "admin" [ref=e900] [cursor=pointer]:
+                  - /url: https://biztechgeeks.com/blog/author/admin/
+      - generic [ref=e902]:
+        - heading "Subscribe to our newsletter" [level=5] [ref=e905]
+        - generic [ref=e908]:
+          - generic [ref=e909]:
+            - textbox "Your Name:*" [ref=e911]
+            - textbox "Your Email:*" [ref=e913]
+            - textbox "Your Message:" [ref=e915]
+          - button "Send" [ref=e917] [cursor=pointer]:  Send
+      - generic [ref=e919]:
+        - heading "Contact" [level=5] [ref=e922]
+        - generic [ref=e924]:
+          - generic [ref=e926]: 
+          - heading "Address :" [level=6] [ref=e929]
+        - generic [ref=e932]: Our Office location - India
+        - generic [ref=e937]:
+          - generic [ref=e939]: 
+          - heading "Phone :" [level=6] [ref=e942]
+        - link "+919894679269" [ref=e945] [cursor=pointer]:
+          - /url: tel:+919894679269
+        - generic [ref=e947]:
+          - generic [ref=e949]: 
+          - heading "E-mail :" [level=6] [ref=e952]
+        - link "hello@biztechgeeks.com, biztechgeeks@gmail.com" [ref=e955] [cursor=pointer]:
+          - /url: "mailto: hello@biztechgeeks.com, biztechgeeks@gmail.com"
+    - generic [ref=e957]:
+      - generic [ref=e961]:
+        - text: 
+        - generic [ref=e962]:
+          - text: 
+          - list [ref=e964]:
+            - listitem [ref=e965]:
+              - link "Home" [ref=e966] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/
+                - generic [ref=e967]: Home
+            - listitem [ref=e968]:
+              - link "About" [ref=e969] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/about/
+                - generic [ref=e970]: About
+            - listitem [ref=e971]:
+              - link "Services" [ref=e972] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/services/
+                - generic [ref=e973]: Services
+            - listitem [ref=e974]:
+              - link "Blog" [ref=e975] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/blog/
+                - generic [ref=e976]: Blog
+            - listitem [ref=e977]:
+              - link "Contact" [ref=e978] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/contact/
+                - generic [ref=e979]: Contact
+            - listitem [ref=e980]:
+              - link "Marketing Automation" [ref=e981] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/marketing-automation/
+                - generic [ref=e982]: Marketing Automation
+            - listitem [ref=e983]:
+              - link "B2B" [ref=e984] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/b2b/
+                - generic [ref=e985]: B2B
+            - listitem [ref=e986]:
+              - link "Coimbatore" [ref=e987] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/best-digital-marketing-agency-in-coimbatore/
+                - generic [ref=e988]: Coimbatore
+            - listitem [ref=e989]:
+              - link "Bangalore" [ref=e990] [cursor=pointer]:
+                - /url: https://biztechgeeks.com/digital-marketing-services-in-bangalore/
+                - generic [ref=e991]: Bangalore
+      - generic [ref=e994]:
+        - generic [ref=e996]:
+          - link "":
+            - /url: https://facebook.com/biztechgeeks
+            - generic [ref=e997] [cursor=pointer]: 
+        - generic [ref=e999]:
+          - link "":
+            - /url: https://www.instagram.com/biztechgeeks/
+            - generic [ref=e1000] [cursor=pointer]: 
+        - generic [ref=e1002]:
+          - link "":
+            - /url: https://www.linkedin.com/company/biztechgeeks/
+            - generic [ref=e1003] [cursor=pointer]: 
+        - generic [ref=e1005]:
+          - link "":
+            - /url: https://www.youtube.com/@biztechgeeks7300
+            - generic [ref=e1006] [cursor=pointer]: 
+    - text:          
+  - generic [ref=e1008]:
+    - paragraph [ref=e1009]: We respect your privacy
+    - paragraph [ref=e1011]: Cookies help us improve your experience, deliver personalized content, and analyze traffic. You can choose which cookies to allow by clicking Customize. Click Accept All to consent or Reject All to decline non-essential cookies.
+    - generic [ref=e1012]:
+      - button "Customize" [ref=e1013] [cursor=pointer]
+      - button "Reject All" [ref=e1014] [cursor=pointer]
+      - button "Accept All" [ref=e1015] [cursor=pointer]

@@ -1,26 +1,26 @@
 import { test, expect } from '@playwright/test';
+import { base } from 'framer-motion/client';
+// page - fixture - global object
+test("Multiple windows handling", async function ({ page }) {
 
-test('has title', async ({ page }) => {
-  await page.goto('https://playwright.dev/');
+    await page.goto("https://demo.automationtesting.in/Windows.html")
+    const page1 = page.waitForEvent("popup")
 
-  // Expect a title "to contain" a substring.
-  await expect(page).toHaveTitle(/Playwright/);
+    await page.locator("#Tabbed button").click()
+    const newPage = await page1
+
+    await newPage.getByText("Downloads", { exact: true }).click();
+
+    await expect(newPage.locator("#bindings"))
+    .toContainText("Selenium Clients and WebDriver Language Bindings");
+
+    await page.getByText("Home", { exact: true }).click();
+
+    await expect(page.getByPlaceholder("Email id for Sign Up"))
+    .toBeVisible();
+
 });
 
-test('get started link', async ({ page }) => {
-  await page.goto('https://playwright.dev/');
+//new
+//new//new//new//new//new
 
-  // Click the get started link.
-  await page.getByRole('link', { name: 'Get started' }).click();
-
-  // Expects page to have a heading with the name of Installation.
-  await expect(page.getByRole('heading', { name: 'Installation' })).toBeVisible();
-});
-
-test('btest', async ({ page }) => {
-  await page.goto('https://biztechgeeks.com/');
-  await expect(page.getByRole('heading', { name: 'Creative Marketing' })).toBeVisible();
-  await page.getByRole('heading', { name: 'Creative Marketing' }).click();
-  await expect(page.getByRole('heading', { name: 'Agency' })).toBeVisible();
-  await expect(page.getByRole('banner')).toContainText('Unlock Growth Now');
-});
