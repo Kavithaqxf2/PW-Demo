@@ -17,7 +17,7 @@ test('get started link', async ({ page }) => {
   await expect(page.getByRole('heading', { name: 'Installation' })).toBeVisible();
 });
 
-test('btest', async ({ page }) => {
+test.only('btest', async ({ page }) => {
   await page.goto('https://biztechgeeks.com/');
   await expect(page.getByRole('heading', { name: 'Creative Marketing' })).toBeVisible();
   await page.getByRole('heading', { name: 'Creative Marketing' }).click();

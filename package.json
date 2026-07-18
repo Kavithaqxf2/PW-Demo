@@ -6,7 +6,7 @@
   "scripts": {
     "fullTest": "npx playwright test",
     "smokeTest": "npx playwright test tests/mouseOps.spec.ts",
-    "regressionTest": "npx playwright test -g @regression",
+    "regressionTest": "npx playwright test tests/btg.spec.ts",
     "lpTest": "npx playwright test tests/LoginPageTest.spec.ts",
     "test:qa": "set ENV=qa&& npx playwright test tests/LoginPageTestUsingEnv.spec.ts",
     "test:prod":"set ENV=prod&& npx playwright test tests/LoginPageTestUsingEnv.spec.ts"

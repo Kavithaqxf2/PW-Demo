@@ -7,7 +7,7 @@
 
 import {test, expect} from '@playwright/test'
 
-test("Handling right click and double click", async ({page})=>{
+test.only("Handling right click and double click", async ({page})=>{
     await page.goto("https://demo.guru99.com/test/simple_context_menu.html")
 
 
