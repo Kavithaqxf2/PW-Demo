@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
   "clean": "rmdir /s /q allure-results & rmdir /s /q allure-report & rmdir /s /q playwright-report & rmdir /s /q test-results",    "fullTest": "npx playwright test",
-    "smokeTest": "npx playwright test tests/mouseOps.spec.ts && npx allure serve allure-results",
+    "smokeTest": "npx playwright test tests/mouseOps.spec.ts",
     "allure": "npx allure serve allure-results",
     "regressionTest": "npx playwright test tests/btg.spec.ts",
     "lpTest": "npx playwright test tests/LoginPageTest.spec.ts",
