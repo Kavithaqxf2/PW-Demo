@@ -35,7 +35,7 @@ test("Handling calendar", async ({page})=>{
 
     await page.waitForTimeout(2000)
 
-    */
+*/
 
     while(true){
         if((await monthPicker.textContent() == targetMonth) 
@@ -52,5 +52,29 @@ test("Handling calendar", async ({page})=>{
     await page.waitForTimeout(2000)
 
 });
+
+// const targetDay = "12";
+// const targetMonth = "May";
+// const targetYear = "2027";
+
+// await page.getByRole('img', { name: 'Calendar-icon' }).click();
+
+// const month = page.locator(".ui-datepicker-month");
+// const year = page.locator(".ui-datepicker-year");
+
+// while (true) {
+
+//     const currentMonth = await month.textContent();
+//     const currentYear = await year.textContent();
+
+//     if (currentMonth === targetMonth && currentYear === targetYear)
+//         break;
+
+//     await page.getByTitle("Next").click();
+// }
+
+// await page.getByRole("link", { name: targetDay }).click();
+
+
 
 // codegen - Code generation
