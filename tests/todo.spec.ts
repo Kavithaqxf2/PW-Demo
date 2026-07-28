@@ -1,5 +1,5 @@
 import { test } from '@playwright/test';
-import { TodoPage } from '../pages/pageObjects/todo.page';
+import { TodoPage } from '../pages/PageObjects/todo.page';
 
 test.describe('TodoMVC page object', () => {
   test('should add a todo and capture screenshot', async ({ page }) => {
